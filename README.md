@@ -5,6 +5,8 @@
 -->
 
 
+<img margin-left="auto" margin-right="auto" display="block" src="https://github-readme-stats.vercel.app/api?username=setegonz&theme=aura_dark&show_icons=true" />
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
